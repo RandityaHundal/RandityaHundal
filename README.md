@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on my portfolio website
+- 🌱 I’m currently learning C#
+- 📫 How to reach me: Email: randyhundal005@gmail.com
+- 😄 Pronouns: He/Him
 
 <!--
 **RandityaHundal/RandityaHundal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
