@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on Microsoft's C# course<br>🌱 I’m currently learning C#, Unity<br>💬 Ask me about anything<br>⚡ Fun fact my name means victory
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@RandityaHundal/30-nites-of-code)  
+  ![@RandityaHundal #30NitesOfCode](https://www.codedex.io/api/petStatus?user=RandityaHundal)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Randitya Hundal](https://www.linkedin.com/in/randitya-hundal-896aba286)) 
