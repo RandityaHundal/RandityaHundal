@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Microsoft's C# course<br>🌱 I’m currently learning C#, Unity, and python<br>💬 Ask me about anything<br>⚡ Fun fact my name means victory
+🔭 I’m currently working on codedex's python course<br>🌱 I’m currently learning C#, Unity, and python<br>💬 Ask me about anything<br>⚡ Fun fact my name means victory
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@RandityaHundal/30-nites-of-code)  
